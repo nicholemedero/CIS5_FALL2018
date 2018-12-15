@@ -1,0 +1,7 @@
+Nichole:850
+**********************************************
+Your reward: A fun trick!
+Here is an array of numbers.
+54321
+Here is that same array reversed!
+12345
