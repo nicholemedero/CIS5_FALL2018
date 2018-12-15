@@ -1,0 +1,3 @@
+Reverse a number and subtract if possible.
+Input a number in the range of an unsigned short
+10101

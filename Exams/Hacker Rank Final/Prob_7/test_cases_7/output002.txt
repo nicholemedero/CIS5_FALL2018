@@ -1,0 +1,9 @@
+Match a pattern in a sentence.
+Input a sentence
+Input a pattern.
+
+The sentence and the pattern
+This is a test.
+a
+The positions where the pattern matched
+8

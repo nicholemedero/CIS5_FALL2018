@@ -1,0 +1,11 @@
+Read in a 1 dimensional array of integers find sum/min/max
+Input the array size where size <= 20
+Now read the Array
+a[0] = 1
+a[1] = 10
+a[2] = 100
+a[3] = 1000
+a[4] = 10000
+Min  = 1
+Max  = 10000
+Sum  = 11111

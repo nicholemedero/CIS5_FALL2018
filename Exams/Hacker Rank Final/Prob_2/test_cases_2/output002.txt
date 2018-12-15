@@ -1,0 +1,4 @@
+Read in a 1 dimensional array of characters and sort
+Input the array size where size <= 20
+Now read the Array
+Input size greater than specified.

@@ -1,0 +1,12 @@
+Input a table and output the Augment row,col and total sums.
+First input the number of rows and cols. <20 for each
+Now input the table.
+
+The Original Array
+         1         2
+         3         4
+
+The Augmented Array
+         1         2         3
+         3         4         7
+         4         6        10

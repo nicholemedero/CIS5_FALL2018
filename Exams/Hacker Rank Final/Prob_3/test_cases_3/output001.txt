@@ -1,0 +1,8 @@
+Read in a 2 dimensional array of characters and sort by Row
+Input the number of rows <= 20
+Input the maximum number of columns <=20
+Now input the array.
+The Sorted Array
+456
+567
+678

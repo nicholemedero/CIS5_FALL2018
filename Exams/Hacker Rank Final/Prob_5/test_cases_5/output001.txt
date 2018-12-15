@@ -1,0 +1,14 @@
+Input the number of integers to input.
+Input each number.
+    Vector      Even       Odd
+                   2         1
+                   4         3
+                   6         5
+                   8         7
+                             9
+     Array      Even       Odd
+                   2         1
+                   4         3
+                   6         5
+                   8         7
+                             9
